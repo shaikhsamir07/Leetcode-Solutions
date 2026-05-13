@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
