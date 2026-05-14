@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
