@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
