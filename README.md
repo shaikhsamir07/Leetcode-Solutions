@@ -164,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
 |  |
@@ -220,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
