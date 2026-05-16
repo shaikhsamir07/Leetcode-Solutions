@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
