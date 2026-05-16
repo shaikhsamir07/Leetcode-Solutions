@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
