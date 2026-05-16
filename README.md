@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -363,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
