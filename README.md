@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
