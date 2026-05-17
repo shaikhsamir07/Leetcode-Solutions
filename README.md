@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0338-counting-bits) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
