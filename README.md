@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0072-edit-distance) |
