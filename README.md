@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Topological Sort
