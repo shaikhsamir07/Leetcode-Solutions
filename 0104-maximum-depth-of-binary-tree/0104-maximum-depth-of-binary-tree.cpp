@@ -10,13 +10,16 @@
  *         : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if (root == nullptr) {
+
+        if (root == NULL) {
             return 0;
         }
 
-        return 1 + max(maxDepth(root->left), maxDepth(root->right));
+        return 1 + max(maxDepth(root->left),
+                       maxDepth(root->right));
     }
 };
