@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0633-sum-of-square-numbers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
