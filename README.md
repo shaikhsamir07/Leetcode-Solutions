@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
