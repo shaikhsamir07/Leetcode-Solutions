@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2542-maximum-subsequence-score](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
