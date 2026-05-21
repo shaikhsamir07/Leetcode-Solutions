@@ -10,19 +10,20 @@ public:
         for (int num : st) {
 
             // Start of sequence
-            if (st.find(num - 1) == st.end()) {
+            if (!st.count(num - 1)) {
 
                 int currentNum = num;
                 int length = 1;
 
-                while (st.find(currentNum + 1)
-                       != st.end()) {
+                // Count consecutive numbers
+                while (st.count(currentNum + 1)) {
 
                     currentNum++;
                     length++;
                 }
 
-                longest = max(longest, length);
+                longest = max(longest,
+                              length);
             }
         }
 
