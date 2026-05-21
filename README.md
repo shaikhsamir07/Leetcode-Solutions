@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
