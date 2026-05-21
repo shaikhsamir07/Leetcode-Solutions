@@ -4,24 +4,22 @@ def nth_highest_salary(employee: pd.DataFrame, N: int) -> pd.DataFrame:
 
     column_name = f'getNthHighestSalary({N})'
 
-    # Invalid N
+    # Handle invalid N
     if N <= 0:
-        return pd.DataFrame({
-            column_name: [None]
-        })
+        return pd.DataFrame({column_name: [None]})
 
-    unique_salaries = (
+    # Get distinct salaries in descending order
+    salaries = (
         employee['salary']
         .drop_duplicates()
         .sort_values(ascending=False)
         .reset_index(drop=True)
     )
 
-    if N <= len(unique_salaries):
-        value = unique_salaries.iloc[N - 1]
-    else:
-        value = None
+    # Check if Nth salary exists
+    if N > len(salaries):
+        return pd.DataFrame({column_name: [None]})
 
     return pd.DataFrame({
-        column_name: [value]
+        column_name: [salaries.iloc[N - 1]]
     })
