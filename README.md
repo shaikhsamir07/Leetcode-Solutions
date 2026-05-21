@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
