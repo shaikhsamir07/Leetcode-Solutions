@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Tree
 |  |
