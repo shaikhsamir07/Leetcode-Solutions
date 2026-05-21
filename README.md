@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
