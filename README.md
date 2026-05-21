@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1306-jump-game-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1207-unique-number-of-occurrences](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
