@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
