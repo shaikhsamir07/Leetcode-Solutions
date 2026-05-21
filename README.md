@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
+| [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1207-unique-number-of-occurrences](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 ## Shortest Path
 |  |
 | ------- |
@@ -849,4 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
