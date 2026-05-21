@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1492-the-kth-factor-of-n](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Greedy
 |  |
 | ------- |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1492-the-kth-factor-of-n](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Indexed Tree
 |  |
 | ------- |
