@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -925,4 +928,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
