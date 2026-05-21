@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2076-process-restricted-friend-requests](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 ## Union-Find
 |  |
 | ------- |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [2076-process-restricted-friend-requests](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 ## Shortest Path
 |  |
 | ------- |
