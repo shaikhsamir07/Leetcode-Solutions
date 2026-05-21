@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
