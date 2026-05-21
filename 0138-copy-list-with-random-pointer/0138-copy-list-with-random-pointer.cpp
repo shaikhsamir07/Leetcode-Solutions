@@ -5,7 +5,7 @@ public:
     int val;
     Node* next;
     Node* random;
-
+    
     Node(int _val) {
         val = _val;
         next = NULL;
@@ -24,26 +24,23 @@ public:
 
         unordered_map<Node*, Node*> mp;
 
-        Node* curr = head;
+        Node* temp = head;
 
         // Create copy nodes
-        while (curr != NULL) {
-
-            mp[curr] = new Node(curr->val);
-
-            curr = curr->next;
+        while (temp != NULL) {
+            mp[temp] = new Node(temp->val);
+            temp = temp->next;
         }
 
-        curr = head;
+        temp = head;
 
         // Connect next and random pointers
-        while (curr != NULL) {
+        while (temp != NULL) {
 
-            mp[curr]->next = mp[curr->next];
+            mp[temp]->next = mp[temp->next];
+            mp[temp]->random = mp[temp->random];
 
-            mp[curr]->random = mp[curr->random];
-
-            curr = curr->next;
+            temp = temp->next;
         }
 
         return mp[head];
