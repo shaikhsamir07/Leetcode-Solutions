@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
