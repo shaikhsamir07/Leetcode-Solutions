@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2405-optimal-partition-of-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2405-optimal-partition-of-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2542-maximum-subsequence-score](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
