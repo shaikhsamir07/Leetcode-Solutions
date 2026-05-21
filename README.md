@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
