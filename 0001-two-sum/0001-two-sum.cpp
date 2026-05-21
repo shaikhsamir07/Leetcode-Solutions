@@ -8,12 +8,12 @@ public:
 
             int complement = target - nums[i];
 
-            // If complement already exists
+            // If complement exists
             if (mp.find(complement) != mp.end()) {
-
                 return {mp[complement], i};
             }
 
+            // Store current number and index
             mp[nums[i]] = i;
         }
 
