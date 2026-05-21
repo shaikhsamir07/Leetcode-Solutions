@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Union-Find
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Memoization
 |  |
 | ------- |
