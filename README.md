@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Queue
 |  |
 | ------- |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Quickselect
 |  |
 | ------- |
