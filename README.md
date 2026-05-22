@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0731-my-calendar-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Monotonic Queue
 |  |
 | ------- |
