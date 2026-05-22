@@ -1,31 +1,40 @@
 class Solution {
 public:
-    bool wordBreak(string s,
-                   vector<string>& wordDict) {
+    int dp[301];
 
-        unordered_set<string> words(wordDict.begin(),
-                                    wordDict.end());
+    bool solve(int idx,
+               string& s,
+               unordered_set<string>& st) {
 
-        int n = s.size();
+        if (idx == s.size())
+            return true;
 
-        vector<bool> dp(n + 1, false);
+        if (dp[idx] != -1)
+            return dp[idx];
 
-        dp[0] = true;
+        string temp = "";
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = idx; i < s.size(); i++) {
 
-            for (int j = 0; j < i; j++) {
+            temp += s[i];
 
-                // Check if substring exists in dictionary
-                if (dp[j] &&
-                    words.count(s.substr(j, i - j))) {
+            if (st.count(temp)) {
 
-                    dp[i] = true;
-                    break;
-                }
+                if (solve(i + 1, s, st))
+                    return dp[idx] = true;
             }
         }
 
-        return dp[n];
+        return dp[idx] = false;
+    }
+
+    bool wordBreak(string s, vector<string>& wordDict) {
+
+        unordered_set<string> st(wordDict.begin(),
+                                 wordDict.end());
+
+        memset(dp, -1, sizeof(dp));
+
+        return solve(0, s, st);
     }
 };
