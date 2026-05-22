@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0720-longest-word-in-dictionary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
