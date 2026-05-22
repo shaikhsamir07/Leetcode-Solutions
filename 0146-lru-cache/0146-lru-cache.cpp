@@ -5,8 +5,7 @@ public:
 
     list<pair<int, int>> cache;
 
-    unordered_map<int,
-                  list<pair<int, int>>::iterator> mp;
+    unordered_map<int, list<pair<int, int>>::iterator> mp;
 
     LRUCache(int capacity) {
 
@@ -15,7 +14,9 @@ public:
 
     int get(int key) {
 
+        // Key not found
         if (mp.find(key) == mp.end()) {
+
             return -1;
         }
 
@@ -46,7 +47,7 @@ public:
 
         mp[key] = cache.begin();
 
-        // Remove LRU item
+        // Remove least recently used
         if (cache.size() > capacity) {
 
             auto last = cache.back();
