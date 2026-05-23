@@ -1,40 +1,28 @@
 class Solution {
 public:
-
     vector<string> ans;
 
-    void backtrack(int open,
-                   int close,
-                   int n,
-                   string current) {
+    void backtrack(string curr, int open, int close, int n) {
 
         // Valid combination formed
-        if (current.size() == 2 * n) {
-            ans.push_back(current);
+        if (curr.length() == 2 * n) {
+            ans.push_back(curr);
             return;
         }
 
         // Add opening bracket
         if (open < n) {
-            backtrack(open + 1,
-                      close,
-                      n,
-                      current + "(");
+            backtrack(curr + "(", open + 1, close, n);
         }
 
         // Add closing bracket
         if (close < open) {
-            backtrack(open,
-                      close + 1,
-                      n,
-                      current + ")");
+            backtrack(curr + ")", open, close + 1, n);
         }
     }
 
     vector<string> generateParenthesis(int n) {
-
-        backtrack(0, 0, n, "");
-
+        backtrack("", 0, 0, n);
         return ans;
     }
 };
