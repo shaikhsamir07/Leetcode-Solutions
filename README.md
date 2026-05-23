@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Database
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [2485-find-the-pivot-integer](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
