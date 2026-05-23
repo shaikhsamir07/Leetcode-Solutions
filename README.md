@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Topological Sort
 |  |
