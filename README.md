@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
