@@ -4,37 +4,32 @@ public:
 
         unordered_map<int, int> freq;
 
-        // Count frequencies
+        // Count frequency of elements
         for (int num : nums) {
             freq[num]++;
         }
 
-        // Bucket sort
+        // Bucket sort based on frequency
         vector<vector<int>> bucket(nums.size() + 1);
 
-        for (auto& it : freq) {
-
-            int num = it.first;
-            int count = it.second;
-
-            bucket[count].push_back(num);
+        for (auto &it : freq) {
+            bucket[it.second].push_back(it.first);
         }
 
-        vector<int> ans;
+        vector<int> result;
 
-        // Traverse from highest frequency
+        // Traverse buckets from high frequency to low
         for (int i = nums.size(); i >= 0; i--) {
 
             for (int num : bucket[i]) {
+                result.push_back(num);
 
-                ans.push_back(num);
-
-                if (ans.size() == k) {
-                    return ans;
+                if (result.size() == k) {
+                    return result;
                 }
             }
         }
 
-        return ans;
+        return result;
     }
 };
