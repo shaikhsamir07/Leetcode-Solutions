@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0815-bus-routes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
