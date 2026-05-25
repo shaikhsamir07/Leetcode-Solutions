@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
