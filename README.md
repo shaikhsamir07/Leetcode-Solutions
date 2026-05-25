@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2485-find-the-pivot-integer](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Database
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2390-removing-stars-from-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sorting
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
