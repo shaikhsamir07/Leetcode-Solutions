@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [0983-minimum-cost-for-tickets](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
