@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1268-search-suggestions-system](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Counting
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
