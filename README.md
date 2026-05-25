@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2140-solving-questions-with-brainpower](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [2466-count-ways-to-build-good-strings](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sorting
