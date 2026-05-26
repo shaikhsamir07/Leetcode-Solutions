@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
