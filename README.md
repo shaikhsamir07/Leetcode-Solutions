@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Hash Table
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shaikhsamir07/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
 | ------- |
